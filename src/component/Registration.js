@@ -106,7 +106,7 @@ const Registration = () => {
             id="exampleCheck1"
           />
           <label className="form-check-label" htmlFor="exampleCheck1">
-            Check me out
+            Ccheksamdmkadmka
           </label>
         </div>
         <button type="submit" className="btn btn-primary">
